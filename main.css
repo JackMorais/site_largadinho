@@ -203,12 +203,14 @@ footer{
     max-width: 1280px;
     width: 100%;
     margin: 0 auto;
+   
     
 }
 .footer p{
     color: white;
     padding: 20px 0 20px 0;
     font-family: 'Raleway', sans-serif;
+    
 }
 .redes{
     display: flex;
@@ -216,17 +218,15 @@ footer{
     align-items: center;
     
 }
-.redes p{
+.redes a{
     margin-right: 10px;
     color: white;
+    font-family: 'Raleway', sans-serif;
 }
 .rede{
     display: flex;
     flex-direction: row;
-    align-items: center;
     
-    width: 40px;
-    height: 40px;
     
 }
 .rede img{
